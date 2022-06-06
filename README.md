@@ -8,6 +8,12 @@ Primary initial references are:
 
   * https://ubuntourist.codeberg.page/Altair-8800/linux.html
 
-Mon  6 Jun 13:42:29 UTC 2022
+
+Status
+
+  Working repository - initial application built from
+  a clone of this (very) git repository.
+
+Mon  6 Jun 15:25:54 UTC 2022
 
 END.
